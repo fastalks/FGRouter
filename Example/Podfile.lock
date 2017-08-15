@@ -1,0 +1,16 @@
+PODS:
+  - FGRouter (0.1.0)
+
+DEPENDENCIES:
+  - FGRouter (from `../`)
+
+EXTERNAL SOURCES:
+  FGRouter:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FGRouter: 02050afe3f63916bf513f839b7c2c1e0c19bbc18
+
+PODFILE CHECKSUM: 55a4b2939ae7eb22b7c07a27a51a5f18e2626853
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,6 @@
+framework module FGRouter {
+  umbrella header "FGRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

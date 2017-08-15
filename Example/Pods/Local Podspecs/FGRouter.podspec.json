@@ -1,0 +1,22 @@
+{
+  "name": "FGRouter",
+  "version": "0.1.0",
+  "summary": "A short description of FGRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangfaguo/FGRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangfaguo": "sdwangfaguo@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wangfaguo/FGRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FGRouter/Classes/**/*"
+}
