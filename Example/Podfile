@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FGRouter_Example' do
+  pod 'FGRouter', :path => '../'
+
+  target 'FGRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
